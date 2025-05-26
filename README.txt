@@ -17,4 +17,3 @@ This project demonstrates the process of resume classification using NLP techniq
 It covers data loading, cleaning, EDA, vectorization, model training, and evaluation, 
 providing a comprehensive workflow for text classification tasks.
 
-yo
